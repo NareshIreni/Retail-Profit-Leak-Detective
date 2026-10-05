@@ -269,6 +269,6 @@ Retail-Profit-Leak-Detective/
 
 **Naresh Ireni**
 
-Data Analyst | Python | SQL | Power BI
+Aspiring Data Analyst | Python | SQL | Power BI
 
 Built as part of my Data Analyst portfolio to practice an end-to-end analytics workflow.
