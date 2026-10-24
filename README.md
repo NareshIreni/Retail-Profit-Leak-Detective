@@ -236,6 +236,11 @@ The **Retail Profit Leak Detective** dashboard investigates retail profitability
 
 ![Sub-Category Investigation](screenshots/subcategory_investigation_tables.png)
 
+### 4. Regional & Customer Deep Dive
+
+![Regional & Customer Deep Dive](screenshots/page3_regional_customer_deep_dive%20%282%29.png)
+
+
 ---
 
 ## Business Recommendations
