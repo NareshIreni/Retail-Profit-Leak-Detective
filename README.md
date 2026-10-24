@@ -219,7 +219,22 @@ This page focuses on:
 - Top Loss-Making Transactions
 - Total Loss by Region
 
-Screenshots of the report are available in the `screenshots` folder.
+
+## Power BI Dashboard
+
+The **Retail Profit Leak Detective** dashboard investigates retail profitability, identifies loss-making transactions, and highlights areas where business decisions may need further review.
+
+### 1. Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
+
+### 2. Profit Leak Investigation
+
+![Profit Leak Investigation](screenshots/profit_leak_investigation.png)
+
+### 3. Sub-Category Investigation — Tables
+
+![Sub-Category Investigation](screenshots/subcategory_investigation_tables.png)
 
 ---
 
@@ -255,9 +270,9 @@ Retail-Profit-Leak-Detective/
 │   └── Retail_Profit_Leak_Detective_EDA.ipynb
 │
 ├── screenshots/
-│   ├── page1_executive_overview.png
-│   ├── page2_profit_leak_investigation.png
-│   └── page3_regional_customer_deep_dive.png
+│   ├── executive_overview.png
+│   ├── profit_leak_investigation.png
+│   └── Sub-Category Investigation — Tables.png
 │
 ├── sql/
 │   └── retail_profit_leak.sql
