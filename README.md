@@ -278,6 +278,7 @@ Retail-Profit-Leak-Detective/
 │   ├── executive_overview.png
 │   ├── profit_leak_investigation.png
 │   └── Sub-Category Investigation — Tables.png
+|   |__ page3_regional_customer_deep_dive (2).png
 │
 ├── sql/
 │   └── retail_profit_leak.sql
