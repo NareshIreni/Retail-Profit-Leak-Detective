@@ -180,7 +180,7 @@ This is why I looked at both **how often losses happened** and **how large the l
 
 ## Power BI Report
 
-I created a 3-page Power BI report.
+I built a Power BI report with three main analysis pages, supported by drillthrough pages, a custom tooltip page, and report navigation.
 
 ### Page 1 — Executive Overview
 
@@ -261,10 +261,12 @@ Based on what I found in the analysis, I would recommend:
 ```text
 Retail-Profit-Leak-Detective/
 │
-├── data/
+├──├── data/
+│   ├── raw data/
+│   │   └── Superstore_dataset.csv
 │   └── cleaned/
 │       └── superstore_cleaned.csv
-│
+|
 ├── documentation/
 │   └── Retail_Profit_Leak_Detective_Documentation.docx
 │
@@ -274,11 +276,11 @@ Retail-Profit-Leak-Detective/
 ├── python/
 │   └── Retail_Profit_Leak_Detective_EDA.ipynb
 │
-├── screenshots/
+├── ├── screenshots/
 │   ├── executive_overview.png
 │   ├── profit_leak_investigation.png
-│   └── Sub-Category Investigation — Tables.png
-|   |__ page3_regional_customer_deep_dive (2).png
+│   ├── subcategory_investigation_tables.png
+│   └── page3_regional_customer_deep_dive (2).png
 │
 ├── sql/
 │   └── retail_profit_leak.sql
